@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: blmszj5ur-nodejs-gitops-repository
+spec:
+  url: https://github.com/sjm-rhtap/blmszj5ur-nodejs-gitops
